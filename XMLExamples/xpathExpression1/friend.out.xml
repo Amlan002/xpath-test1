@@ -1,0 +1,22 @@
+<html>
+<body>
+<h2>Students</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>ID</th><th>First Name</th><th>Last Name</th><th>Age</th>
+</tr>
+<tr>
+<td>001</td><td>pampa</td><td>biswas</td><td>26</td>
+</tr>
+<tr>
+<td>002</td><td>sova</td><td>biswas</td><td>25</td>
+</tr>
+<tr>
+<td>003</td><td>ankita</td><td>nag</td><td>26</td>
+</tr>
+<tr>
+<td>004</td><td>baishakhi</td><td>mallik</td><td>26</td>
+</tr>
+</table>
+</body>
+</html>

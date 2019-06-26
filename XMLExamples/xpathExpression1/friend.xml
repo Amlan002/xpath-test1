@@ -1,1 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" ref="friend.xsl" ?>
+<facebookFriend>
+	<friend id="001">
+		<firstname>pampa</firstname>
+		<lastname>biswas</lastname>
+		<age>26</age>
+	</friend>
+	<friend id="002">
+		<firstname>sova</firstname>
+		<lastname>biswas</lastname>
+		<age>25</age>
+	</friend>
+	<friend id="003">
+		<firstname>ankita</firstname>
+		<lastname>nag</lastname>
+		<age>26</age>
+	</friend>
+	<friend id="004">
+		<firstname>baishakhi</firstname>
+		<lastname>mallik</lastname>
+		<age>26</age>
+	</friend>
+</facebookFriend>
